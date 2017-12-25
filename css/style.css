@@ -1,0 +1,65 @@
+html{
+	font-size: 10px;
+}
+h1{
+  font-size: 50px;
+  font-family: "OpenSans";
+  text-align: center;
+  line-height: 0.915;
+  margin-top: 50px;
+}
+.p-header{
+  font-size: 16px;
+  font-family: "OpenSans";
+  color: rgba(65, 65, 65, 0.702);
+  line-height: 1.5;
+  text-align: center;
+
+}
+.span{
+  color: rgba(252, 103, 68, 0.8);
+}
+.cards{
+   margin-top: 90px;
+}
+.bg{
+  box-shadow: 0px 0px 35px 0px rgba(20, 20, 21, 0.21);
+  width: 262px;
+  height: 263px;
+}
+.cyan{
+  background-color: rgb(78, 178, 247);
+}
+.magenta{
+  background-color: rgb(192, 73, 248);
+}
+.blue{
+  background-color: rgb(129, 126, 255);
+}
+.red{
+  background-color: rgb(247, 71, 112);
+}
+.icon{
+	font-size: 46px;
+	padding-left: 40%;
+	padding-top: 20%;
+	color: white;
+}
+.text{
+	color: white;
+	padding: 20px 40px;
+	text-align: center;   
+}
+.content-text{
+	padding-top: 15px;
+}
+.btn{
+	font-size: 16px;				
+	padding-top: 15px;
+	margin-left: 30px;
+	height: 55px;
+	width: 197px;
+	background-color: white;
+	border-radius: 30px;
+    text-align: center;
+}
